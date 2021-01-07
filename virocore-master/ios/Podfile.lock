@@ -1,0 +1,16 @@
+PODS:
+  - GVRAudioSDK (1.120.0)
+
+DEPENDENCIES:
+  - GVRAudioSDK (= 1.120.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - GVRAudioSDK
+
+SPEC CHECKSUMS:
+  GVRAudioSDK: 302f0a8f190d855868ea07f246ce4f9b44c392ae
+
+PODFILE CHECKSUM: 89c2f1709300d1c1cec2b0716b4cb044211565ba
+
+COCOAPODS: 1.5.3
