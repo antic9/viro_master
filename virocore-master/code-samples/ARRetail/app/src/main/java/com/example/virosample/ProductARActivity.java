@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 package com.example.virosample;
-//hello
+//hello!
 import android.Manifest;
 import android.app.Activity;
 import android.content.Context;
